@@ -100,4 +100,15 @@ Este proyecto automatiza los flujos de **inicio de sesión** y **compra de produ
 - Por si no se logra encontrar el directorio del google driver ponemos nuestras evidencias de los tests
   ![image](https://github.com/user-attachments/assets/b8daa495-42af-4300-a289-bacb010dea70)
   ![image](https://github.com/user-attachments/assets/483c7393-584c-4832-a820-21497359c092)
+  https://github.com/user-attachments/assets/b7e4b8d7-f741-423b-aed5-47c3b90c14a8
+
+
+
+https://github.com/user-attachments/assets/27da0e5e-ea8a-49a9-8339-df7428fd3afa
+
+
+https://github.com/user-attachments/assets/ec5881c1-9f91-4532-9bd1-a9b5a8c3fa9a
+
+
+
 
